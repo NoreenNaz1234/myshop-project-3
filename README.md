@@ -8,7 +8,7 @@ https://noreennaz1234.github.io/myshop-project-3/
 
 ### You can see screenshots here
 
-![capture](https://user-images.githubusercontent.com/38943389/48892939-fdf89d00-ee60-11e8-9553-227a86c90aef.PNG)
+![capture](https://user-images.githubusercontent.com/38943389/48893391-0bfaed80-ee62-11e8-8e03-ca96dfaa8209.PNG)
 
 
 ![capture2](https://user-images.githubusercontent.com/38943389/48892941-fdf89d00-ee60-11e8-9813-793b72dfbe14.PNG)
